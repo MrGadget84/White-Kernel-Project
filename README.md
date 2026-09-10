@@ -1,5 +1,5 @@
 # White Kernel Project
-**Maintainer: MrGadget84
+**Maintainer: MrGadget84**
 
 # Support Devices:
 | Devices  | Download   |
