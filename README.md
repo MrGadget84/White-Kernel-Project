@@ -1,7 +1,7 @@
 # White Kernel Project
 **Maintainer: MrGadget84**
 
-**Social Media:** [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/WKP_Discussion)
+**Social Media:**  [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/WKP_Discussion)
 
 # Support Devices:
 | Devices  | Download   |
