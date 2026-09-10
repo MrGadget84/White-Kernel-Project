@@ -1,6 +1,6 @@
 # OSS Blossom
 
-**Blossom - It bears the codename "Garden" and utilizes a modified 64-bit vendor implementation based on the R vendor.**
+**Blossom - It bears the codename "Garden" and utilizes a modified 64-bit OSS vendor implementation based on the R vendor.**
 
 | Device Support: |
 | --------------- |
