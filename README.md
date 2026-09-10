@@ -1,7 +1,7 @@
 # White-Kernel-Project
 
 Support Devices:
-| Official | Unofficial |
+| Devices  | Download   |
 | -------- | ---------- |
-| Blossom  |            |
-| SM-A325F |            |
+| Blossom  | [Download](https://github.com/MrGadget84/White-Kernel-Project/releases/tag/SM-A325F) |
+| SM-A325F | [Download](https://github.com/MrGadget84/White-Kernel-Project/releases/tag/Blossom) |
