@@ -5,4 +5,4 @@
 | Devices  | Download   |
 | -------- | ---------- |
 | Blossom  | [Download](https://github.com/MrGadget84/White-Kernel-Project/releases/tag/Blossom) |
-| SM-A325F | [Download](https://github.com/MrGadget84/White-Kernel-Project/releases/tag/SM-A325F) |
+| Samsung Galaxy A32 4G | [Download](https://github.com/MrGadget84/White-Kernel-Project/releases/tag/SM-A325F) |
