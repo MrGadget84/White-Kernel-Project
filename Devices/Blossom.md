@@ -1,5 +1,7 @@
 # OSS Blossom
 
+**Blossom - It bears the codename "Garden" and utilizes a modified 64-bit vendor implementation based on the R vendor.**
+
 | Device Support: |
 | --------------- |
 | Redmi 9A        |
