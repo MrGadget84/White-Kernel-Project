@@ -27,7 +27,7 @@ body:
       label: Root implementation
       description: Select the root implementation you need.
       options:
-        - ReSukiSU
         - WhiteSU
+        - ReSukiSU
     validations:
       required: true
