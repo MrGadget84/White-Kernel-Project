@@ -21,5 +21,13 @@ body:
       label: Device
       description: Device name
       placeholder: Non-GKI Device
+  - type: dropdown
+    id: component
+    attributes:
+      label: Root implementation
+      description: Select the root implementation you need.
+      options:
+        - ReSukiSU
+        - WhiteSU
     validations:
       required: true
