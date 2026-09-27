@@ -1,7 +1,7 @@
 name: Contribute to Supported Device
-description: Add your device's kernel source code to the list of supported devices for the White Kernel Project, and I will build and integrate ReSukiSU into it.
+description: Add your device's kernel source code to the list of supported devices for the White Kernel Project, and I will build and integrate Root implementation into it.
 title: "[Add Device]: "
-labels: ["add-device"]
+labels: add-device
 body:
   - type: markdown
     attributes:
