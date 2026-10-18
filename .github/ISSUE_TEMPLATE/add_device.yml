@@ -29,5 +29,6 @@ body:
       options:
         - WhiteSU
         - ReSukiSU
+        - SukiSU Ultra (test)
     validations:
       required: true
