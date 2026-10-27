@@ -28,7 +28,7 @@ body:
       description: Select the root implementation you need.
       options:
         - WhiteSU
-        - ReSukiSU
-        - SukiSU Ultra (test)
+        - MySukiSU
+        - BakaSU
     validations:
       required: true
