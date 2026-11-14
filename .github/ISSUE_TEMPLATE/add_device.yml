@@ -29,6 +29,5 @@ body:
       options:
         - WhiteSU
         - MySukiSU
-        - BakaSU
     validations:
       required: true
